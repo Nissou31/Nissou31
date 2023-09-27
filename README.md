@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Anes AMRI aka awahrani aka nissou </h1>
+<h1 align="center">Hi 👋, you can call me Nissou or Anes 😉 </h1>
 <br>
 
 <h3 align="center">A newbie DevOps & cloud engineer looking to evolve on those domains</h3>
 
 
 ```
- - 🔭 I’m currently working on my super secret project (portfolio)
-
  - 🌱 I’m currently learning React, Terraform & Kubernetes
 
- - 📘 I’m preparing Azure az-104 certifcation
+ - 📘 I’m preparing Azure az-104 certifcation and CKA
 
  - ⚡ Fun fact : I like clouds...
 ```
