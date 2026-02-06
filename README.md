@@ -8,7 +8,7 @@ Learning and implementing cloud infrastructure automation and Kubernetes orchest
 Golang, Terraform & Kubernetes.
 
 📘 **I’m preparing for:**  
-Azure AZ-104 certification and Certified Kubernetes Administrator (CKA).
+CKS, KCSA and Terraform Associate 004
 
 ⚡ **Fun fact:**  
 I like clouds... ☁️
